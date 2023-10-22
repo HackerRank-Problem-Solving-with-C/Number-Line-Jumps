@@ -1,0 +1,15 @@
+F:\Proj\.NET\Problem Solving\Number Line Jumps\bin\Debug\net6.0\Number Line Jumps.exe
+F:\Proj\.NET\Problem Solving\Number Line Jumps\bin\Debug\net6.0\Number Line Jumps.deps.json
+F:\Proj\.NET\Problem Solving\Number Line Jumps\bin\Debug\net6.0\Number Line Jumps.runtimeconfig.json
+F:\Proj\.NET\Problem Solving\Number Line Jumps\bin\Debug\net6.0\Number Line Jumps.dll
+F:\Proj\.NET\Problem Solving\Number Line Jumps\bin\Debug\net6.0\Number Line Jumps.pdb
+F:\Proj\.NET\Problem Solving\Number Line Jumps\obj\Debug\net6.0\Number Line Jumps.csproj.AssemblyReference.cache
+F:\Proj\.NET\Problem Solving\Number Line Jumps\obj\Debug\net6.0\Number Line Jumps.GeneratedMSBuildEditorConfig.editorconfig
+F:\Proj\.NET\Problem Solving\Number Line Jumps\obj\Debug\net6.0\Number Line Jumps.AssemblyInfoInputs.cache
+F:\Proj\.NET\Problem Solving\Number Line Jumps\obj\Debug\net6.0\Number Line Jumps.AssemblyInfo.cs
+F:\Proj\.NET\Problem Solving\Number Line Jumps\obj\Debug\net6.0\Number Line Jumps.csproj.CoreCompileInputs.cache
+F:\Proj\.NET\Problem Solving\Number Line Jumps\obj\Debug\net6.0\Number Line Jumps.dll
+F:\Proj\.NET\Problem Solving\Number Line Jumps\obj\Debug\net6.0\refint\Number Line Jumps.dll
+F:\Proj\.NET\Problem Solving\Number Line Jumps\obj\Debug\net6.0\Number Line Jumps.pdb
+F:\Proj\.NET\Problem Solving\Number Line Jumps\obj\Debug\net6.0\Number Line Jumps.genruntimeconfig.cache
+F:\Proj\.NET\Problem Solving\Number Line Jumps\obj\Debug\net6.0\ref\Number Line Jumps.dll

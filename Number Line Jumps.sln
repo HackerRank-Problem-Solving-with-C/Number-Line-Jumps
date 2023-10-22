@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Line Jumps", "Number Line Jumps.csproj", "{E1C0C9F1-8950-45FA-BC8B-D51D13E5E4D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1C0C9F1-8950-45FA-BC8B-D51D13E5E4D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1C0C9F1-8950-45FA-BC8B-D51D13E5E4D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1C0C9F1-8950-45FA-BC8B-D51D13E5E4D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1C0C9F1-8950-45FA-BC8B-D51D13E5E4D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6399BD1D-1267-4DCA-8E01-E7FCBEB69A85}
+	EndGlobalSection
+EndGlobal
